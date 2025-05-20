@@ -1,4 +1,6 @@
-Puntos de ejección
+Puntos de ejección 
+
+NOTA: ESTA ACTIVIDAD FUE REALIZADA PARA HECHOS EDUCATIVOS
 
 1.- Acceder a Mutillidae II
 
