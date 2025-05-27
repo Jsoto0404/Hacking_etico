@@ -1,3 +1,5 @@
+NOTA: ESTA ACTIVIDAD FUE REALIZADA CON FINES EDUCATIVOS.
+
 1.- Crear Webshell la cual nos dara el correo, contraseña y el useragent.
 ![alt text](<Capturas/Captura de pantalla 2025-05-26 214006.png>)
 2.- Subimos el archivo en mutillidae.
