@@ -1,0 +1,1 @@
+El documento que se encuentra en la carpeta, tiene incluido información consultada por medio de centralops, shodan y dnsdumpster, en cada una de las respectivas carpetas se pondra la evidencia.
